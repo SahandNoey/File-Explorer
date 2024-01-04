@@ -1,0 +1,9 @@
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\bin\Debug\TextContentSearch.dll
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\bin\Debug\TextContentSearch.pdb
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\bin\Debug\SearchInterface.dll
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\bin\Debug\SearchInterface.pdb
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\obj\Debug\TextContentSearch.csproj.AssemblyReference.cache
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\obj\Debug\TextContentSearch.csproj.CoreCompileInputs.cache
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\obj\Debug\TextContentSearch.csproj.CopyComplete
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\obj\Debug\TextContentSearch.dll
+D:\Projects\C#Solutions\FileExplorer\TextContentSearch\obj\Debug\TextContentSearch.pdb

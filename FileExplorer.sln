@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExplorer", "FileExplorer\FileExplorer.csproj", "{07F25418-A30E-48D8-AD98-F9262894DCC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInterface", "SearchInterface\SearchInterface.csproj", "{58D54261-AC92-4FA1-8B56-E6F715C32376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextContentSearch", "TextContentSearch\TextContentSearch.csproj", "{FC810538-8152-464D-9E58-7F072CBAEC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F25418-A30E-48D8-AD98-F9262894DCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F25418-A30E-48D8-AD98-F9262894DCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F25418-A30E-48D8-AD98-F9262894DCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F25418-A30E-48D8-AD98-F9262894DCC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D54261-AC92-4FA1-8B56-E6F715C32376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D54261-AC92-4FA1-8B56-E6F715C32376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D54261-AC92-4FA1-8B56-E6F715C32376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D54261-AC92-4FA1-8B56-E6F715C32376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC810538-8152-464D-9E58-7F072CBAEC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC810538-8152-464D-9E58-7F072CBAEC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC810538-8152-464D-9E58-7F072CBAEC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC810538-8152-464D-9E58-7F072CBAEC36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

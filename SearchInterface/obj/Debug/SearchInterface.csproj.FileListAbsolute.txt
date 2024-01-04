@@ -1,0 +1,6 @@
+D:\Projects\C#Solutions\FileExplorer\SearchInterface\bin\Debug\SearchInterface.dll
+D:\Projects\C#Solutions\FileExplorer\SearchInterface\bin\Debug\SearchInterface.pdb
+D:\Projects\C#Solutions\FileExplorer\SearchInterface\obj\Debug\SearchInterface.csproj.AssemblyReference.cache
+D:\Projects\C#Solutions\FileExplorer\SearchInterface\obj\Debug\SearchInterface.csproj.CoreCompileInputs.cache
+D:\Projects\C#Solutions\FileExplorer\SearchInterface\obj\Debug\SearchInterface.dll
+D:\Projects\C#Solutions\FileExplorer\SearchInterface\obj\Debug\SearchInterface.pdb

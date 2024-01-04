@@ -1,0 +1,9 @@
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.AssemblyReference.cache
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\bin\Debug\SearchInterface.dll
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\bin\Debug\SearchInterface.pdb
+D:\Projects\C#Solutions\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CopyComplete
